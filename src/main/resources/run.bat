@@ -1,0 +1,1 @@
+java -jar ./planning-v2.jar
